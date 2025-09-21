@@ -1,5 +1,8 @@
 # React Quiz Application
 
+<img src="src/assets/quiz-logo.png" alt="Project Icon" width="120" height="120">
+
+
 An interactive quiz application built with React that tests users' knowledge through multiple-choice questions with timed responses and detailed feedback.
 
 ## Features
